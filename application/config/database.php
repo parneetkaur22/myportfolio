@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'collage',
+	'hostname' => 'esm7.siteground.biz',
+	'username' => 'datesexp_parneet',
+	'password' => 'D[a90{+%[h7N',
+	'database' => 'datesexp_parneet',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
